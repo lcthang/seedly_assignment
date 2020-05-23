@@ -1,0 +1,41 @@
+[{
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 2,
+  "sender_id": "makerchorse",
+  "sender_type": "User",
+  "target_id": 46,
+  "target_type": "Question",
+  "created_at": 1574325866040
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 1,
+  "sender_id": "gratuitystopper",
+  "sender_type": "User",
+  "target_id": 37,
+  "target_type": "Question",
+  "created_at": 1574325903935
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 3,
+  "sender_id": "funeralpierce",
+  "sender_type": "User",
+  "target_id": 36,
+  "target_type": "Question",
+  "created_at": 1574325917276
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 2,
+  "sender_id": "backwarddusty",
+  "sender_type": "User",
+  "target_id": 46,
+  "target_type": "Question",
+  "created_at": 1574325959410
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 2,
+  "sender_id": "makerchorse",
+  "sender_type": "User",
+  "target_id": 95,
+  "target_type": "Question",
+  "created_at": 1574326028535
+}]

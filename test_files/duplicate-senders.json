@@ -1,0 +1,25 @@
+[{
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 2,
+  "sender_id": "makerchorse",
+  "sender_type": "User",
+  "target_id": 46,
+  "target_type": "Question",
+  "created_at": 1474325866040
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 2,
+  "sender_id": "makerchorse",
+  "sender_type": "User",
+  "target_id": 46,
+  "target_type": "Question",
+  "created_at": 1574325866040
+}, {
+  "user_id": "hackamorevisiting",
+  "notification_type_id": 1,
+  "sender_id": "makerchorse",
+  "sender_type": "User",
+  "target_id": 46,
+  "target_type": "Question",
+  "created_at": 1774325866040
+}]
