@@ -1,5 +1,5 @@
-# Seedly Assignment
-This is a take-home assignment from Seedly.
+# Community Platform
+This handles commands on Community Platforms such as Seedly.
 
 For this assignment, technologies are used as follows:
 - Ruby: programming language
